@@ -1,1 +1,1 @@
-echo 'Haskell Curry'
+Haskell Curry
