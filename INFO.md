@@ -3,3 +3,4 @@ new line
 test
 test2
 
+experiment with amend
